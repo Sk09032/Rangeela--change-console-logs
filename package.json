@@ -1,0 +1,28 @@
+{
+  "name": "rangeela",
+  "version": "1.0.0",
+  "description": "Rangeela- A Library to colorify console logs ",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sk09032/Rangeela--change-console-logs.git"
+  },
+  "keywords": [
+    "console logs colors",
+    "Colorify console logs"
+  ],
+  "author": "Sunny Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sk09032/Rangeela--change-console-logs/issues"
+  },
+  "homepage": "https://github.com/Sk09032/Rangeela--change-console-logs#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
